@@ -2,7 +2,7 @@
 {
   "name": "react-native-hh-button-view",
   "version": "1.0.0",
-  "description": "",
+  "description": "A ReactNative ButtonView Component for android and iOS",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,8 +18,11 @@
     "buttonview",
     "button"
   ],
-  "author": "",
-  "license": "",
+  "author": {
+    "name": "wlh",
+    "email": "wang_developer@163.com"
+  },
+  "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
   }
