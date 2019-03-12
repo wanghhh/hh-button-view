@@ -1,7 +1,6 @@
-
 {
   "name": "react-native-hh-button-view",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A ReactNative ButtonView Component for android and iOS",
   "main": "index.js",
   "scripts": {
