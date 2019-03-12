@@ -18,10 +18,18 @@
     "buttonview",
     "button"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@https://github.com/wanghhh/react-native-hh-button-view.git"
+  },
   "author": {
     "name": "wlh",
     "email": "wang_developer@163.com"
   },
+  "bugs": {
+    "url": "https://github.com/wanghhh/react-native-hh-button-view/issues"
+  },
+  "homepage": "https://github.com/wanghhh/react-native-hh-button-view",
   "license": "MIT",
   "peerDependencies": {
     "react-native": "^0.41.2"
