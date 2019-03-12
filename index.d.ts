@@ -11,6 +11,6 @@ declare module 'react-native-hh-button-view'{
         btnViewStyle?: ViewStyle
         onPressCallback?: () => void,
     }
-    export default class ButtonView extends Component<SwiperProps, any> {
+    export default class ButtonView extends Component<ButtonViewProps, any> {
     }
 }

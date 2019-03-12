@@ -3,7 +3,7 @@ import {
     StyleSheet,
     Text,
     TouchableOpacity,
-    ViewStyle
+    Dimensions
 } from 'react-native';
 import PropTypes from 'prop-types';
 
@@ -46,8 +46,10 @@ export default class ButtonView extends PureComponent {
         );
     }
 }
+
 styles = StyleSheet.create({
     btnView: {
+        width:Dimensions.get('window').width-2*15,
         height: 45,
         lineHeight: 45,
         backgroundColor: '#3296fa',
